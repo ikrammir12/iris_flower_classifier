@@ -1,0 +1,5 @@
+#Get the pyc
+_pycache_
+
+#adding virtual env
+myenv
